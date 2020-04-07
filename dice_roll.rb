@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  return rand(1..6)
 end
+# rand(1..10)
+# > 6
